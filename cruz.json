@@ -1,0 +1,1910 @@
+{
+  "axes": [
+    {
+      "scale": "x",
+      "type": "x"
+    },
+    {
+      "scale": "y",
+      "type": "y"
+    }
+  ],
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {
+          "col": "created_at",
+          "idx": 1462279380000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462279440000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462279500000,
+          "val": 3
+        },
+        {
+          "col": "created_at",
+          "idx": 1462279560000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462279620000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462279680000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462279740000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462279800000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462279860000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462279920000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462279980000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462280040000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462280100000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462280160000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462280220000,
+          "val": 3
+        },
+        {
+          "col": "created_at",
+          "idx": 1462280280000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462280340000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462280400000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462280460000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462280520000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462280580000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462280640000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462280700000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462280760000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462280820000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462280880000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462280940000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462281000000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462281060000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462281120000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462281180000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462281240000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462281300000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462281360000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462281420000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462281480000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462281540000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462281600000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462281660000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462281720000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462281780000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462281840000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462281900000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462281960000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462282020000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462282080000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462282140000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462282200000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462282260000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462282320000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462282380000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462282440000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462282500000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462282560000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462282620000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462282680000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462282740000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462282800000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462282860000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462282920000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462282980000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462283040000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462283100000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462283160000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462283220000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462283280000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462283340000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462283400000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462283460000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462283520000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462283580000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462283640000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462283700000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462283760000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462283820000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462283880000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462283940000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462284000000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462284060000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462284120000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462284180000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462284240000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462284300000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462284360000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462284420000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462284480000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462284540000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462284600000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462284660000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462284720000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462284780000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462284840000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462284900000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462284960000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462285020000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462285080000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462285140000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462285200000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462285260000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462285320000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462285380000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462285440000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462285500000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462285560000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462285620000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462285680000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462285740000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462285800000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462285860000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462285920000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462285980000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462286040000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462286100000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462286160000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462286220000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462286280000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462286340000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462286400000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462286460000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462286520000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462286580000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462286640000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462286700000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462286760000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462286820000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462286880000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462286940000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462287000000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462287060000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462287120000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462287180000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462287240000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462287300000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462287360000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462287420000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462287480000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462287540000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462287600000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462287660000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462287720000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462287780000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462287840000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462287900000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462287960000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462288020000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462288080000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462288140000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462288200000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462288260000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462288320000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462288380000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462288440000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462288500000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462288560000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462288620000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462288680000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462288740000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462288800000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462288860000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462288920000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462288980000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462289040000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462289100000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462289160000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462289220000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462289280000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462289340000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462289400000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462289460000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462289520000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462289580000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462289640000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462289700000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462289760000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462289820000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462289880000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462289940000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462290000000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462290060000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462290120000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462290180000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462290240000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462290300000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462290360000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462290420000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462290480000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462290540000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462290600000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462290660000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462290720000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462290780000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462290840000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462290900000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462290960000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462291020000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462291080000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462291140000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462291200000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462291260000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462291320000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462291380000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462291440000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462291500000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462291560000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462291620000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462291680000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462291740000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462291800000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462291860000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462291920000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462291980000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462292040000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462292100000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462292160000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462292220000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462292280000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462292340000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462292400000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462292460000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462292520000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462292580000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462292640000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462292700000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462292760000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462292820000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462292880000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462292940000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462293000000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462293060000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462293120000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462293180000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462293240000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462293300000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462293360000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462293420000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462293480000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462293540000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462293600000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462293660000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462293720000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462293780000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462293840000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462293900000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462293960000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462294020000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462294080000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462294140000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462294200000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462294260000,
+          "val": 3
+        },
+        {
+          "col": "created_at",
+          "idx": 1462294320000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462294380000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462294440000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462294500000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462294560000,
+          "val": 4
+        },
+        {
+          "col": "created_at",
+          "idx": 1462294620000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462294680000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462294740000,
+          "val": 3
+        },
+        {
+          "col": "created_at",
+          "idx": 1462294800000,
+          "val": 4
+        },
+        {
+          "col": "created_at",
+          "idx": 1462294860000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462294920000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462294980000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462295040000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462295100000,
+          "val": 3
+        },
+        {
+          "col": "created_at",
+          "idx": 1462295160000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462295220000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462295280000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462295340000,
+          "val": 3
+        },
+        {
+          "col": "created_at",
+          "idx": 1462295400000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462295460000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462295520000,
+          "val": 5
+        },
+        {
+          "col": "created_at",
+          "idx": 1462295580000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462295640000,
+          "val": 3
+        },
+        {
+          "col": "created_at",
+          "idx": 1462295700000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462295760000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462295820000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462295880000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462295940000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462296000000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462296060000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462296120000,
+          "val": 6
+        },
+        {
+          "col": "created_at",
+          "idx": 1462296180000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462296240000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462296300000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462296360000,
+          "val": 3
+        },
+        {
+          "col": "created_at",
+          "idx": 1462296420000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462296480000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462296540000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462296600000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462296660000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462296720000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462296780000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462296840000,
+          "val": 3
+        },
+        {
+          "col": "created_at",
+          "idx": 1462296900000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462296960000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462297020000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462297080000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462297140000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462297200000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462297260000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462297320000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462297380000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462297440000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462297500000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462297560000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462297620000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462297680000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462297740000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462297800000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462297860000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462297920000,
+          "val": 7
+        },
+        {
+          "col": "created_at",
+          "idx": 1462297980000,
+          "val": 3
+        },
+        {
+          "col": "created_at",
+          "idx": 1462298040000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462298100000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462298160000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462298220000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462298280000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462298340000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462298400000,
+          "val": 6
+        },
+        {
+          "col": "created_at",
+          "idx": 1462298460000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462298520000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462298580000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462298640000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462298700000,
+          "val": 5
+        },
+        {
+          "col": "created_at",
+          "idx": 1462298760000,
+          "val": 3
+        },
+        {
+          "col": "created_at",
+          "idx": 1462298820000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462298880000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462298940000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462299000000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462299060000,
+          "val": 3
+        },
+        {
+          "col": "created_at",
+          "idx": 1462299120000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462299180000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462299240000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462299300000,
+          "val": 4
+        },
+        {
+          "col": "created_at",
+          "idx": 1462299360000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462299420000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462299480000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462299540000,
+          "val": 3
+        },
+        {
+          "col": "created_at",
+          "idx": 1462299600000,
+          "val": 17
+        },
+        {
+          "col": "created_at",
+          "idx": 1462299660000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462299720000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462299780000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462299840000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462299900000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462299960000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462300020000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462300080000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462300140000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462300200000,
+          "val": 1
+        },
+        {
+          "col": "created_at",
+          "idx": 1462300260000,
+          "val": 2
+        },
+        {
+          "col": "created_at",
+          "idx": 1462300320000,
+          "val": 4
+        },
+        {
+          "col": "created_at",
+          "idx": 1462300380000,
+          "val": 0
+        },
+        {
+          "col": "created_at",
+          "idx": 1462300440000,
+          "val": 3
+        },
+        {
+          "col": "created_at",
+          "idx": 1462300500000,
+          "val": 4
+        },
+        {
+          "col": "created_at",
+          "idx": 1462300560000,
+          "val": 10
+        },
+        {
+          "col": "created_at",
+          "idx": 1462300620000,
+          "val": 4
+        },
+        {
+          "col": "created_at",
+          "idx": 1462300680000,
+          "val": 2
+        }
+      ]
+    },
+    {
+      "name": "stats",
+      "source": "table",
+      "transform": [
+        {
+          "keys": [
+            "data.idx"
+          ],
+          "type": "facet"
+        },
+        {
+          "type": "stats",
+          "value": "data.val"
+        }
+      ]
+    }
+  ],
+  "height": 500,
+  "legends": [],
+  "marks": [
+    {
+      "from": {
+        "data": "table",
+        "transform": [
+          {
+            "keys": [
+              "data.col"
+            ],
+            "type": "facet"
+          },
+          {
+            "height": "data.val",
+            "point": "data.idx",
+            "type": "stack"
+          }
+        ]
+      },
+      "marks": [
+        {
+          "properties": {
+            "enter": {
+              "fill": {
+                "field": "data.col",
+                "scale": "color"
+              },
+              "interpolate": {
+                "value": "monotone"
+              },
+              "x": {
+                "field": "data.idx",
+                "scale": "x"
+              },
+              "y": {
+                "field": "y",
+                "scale": "y"
+              },
+              "y2": {
+                "field": "y2",
+                "scale": "y"
+              }
+            }
+          },
+          "type": "area"
+        }
+      ],
+      "type": "group"
+    }
+  ],
+  "padding": "auto",
+  "scales": [
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.idx"
+      },
+      "name": "x",
+      "range": "width",
+      "type": "time",
+      "zero": false
+    },
+    {
+      "domain": {
+        "data": "stats",
+        "field": "sum"
+      },
+      "name": "y",
+      "nice": true,
+      "range": "height"
+    },
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.col"
+      },
+      "name": "color",
+      "range": [
+        "#9e0142",
+        "#d53e4f",
+        "#f46d43",
+        "#fdae61",
+        "#fee08b",
+        "#ffffbf",
+        "#e6f598",
+        "#abdda4",
+        "#66c2a5",
+        "#3288bd",
+        "#5e4fa2"
+      ],
+      "type": "ordinal"
+    }
+  ],
+  "width": 960
+}
